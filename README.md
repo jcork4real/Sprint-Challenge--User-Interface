@@ -55,7 +55,8 @@ Edit this document to include your answers after each question. Make sure to lea
 
 5. Explain why git is valuable to a team of developers.
 
-        Because every developer on the team can essentially work on their own copy of the master source code. Before merging code into the master code, project managers have the ability to quality check the code before updating the master source file or merging a pull request. Because of this the main source code used for production mainatins a level of security and quality.
+        Because every developer on the team can essentially work on their own copy of the master source code. Before merging code into the master code, project managers have the ability to quality check the code before updating the master source file or merging a pull request. Because of this the main source code used for production mainatins a level of security from human errors and quality since a project manager has opportunity to review code. Now teams can manage and keep track of different versions of code in one repository.
+        
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
